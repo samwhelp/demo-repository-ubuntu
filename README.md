@@ -116,7 +116,8 @@ $ make update
 
 有三種可以選擇
 
-#### 「/etc/apt/sources.list.d/demo-local.list」
+
+#### 選擇一「/etc/apt/sources.list.d/demo-local.list」
 
 執行
 
@@ -139,7 +140,7 @@ $ make sources-list-remove
 詳細的執行動作，可以參考「[bin/sources-list-install.sh](bin/sources-list-install.sh)」和「[bin/sources-list-remove.sh](bin/sources-list-remove.sh)」的內容。
 
 
-#### 「/etc/apt/sources.list.d/demo-localhost.list」
+#### 選擇二「/etc/apt/sources.list.d/demo-localhost.list」
 
 執行
 
@@ -168,7 +169,8 @@ $ make localhost-sources-list-remove
 
 詳細的執行動作，可以參考「[bin/localhost-sources-list-install.sh](bin/localhost-sources-list-install.sh)」和「[bin/localhost-sources-list-remove.sh](bin/localhost-sources-list-remove.sh)」的內容。
 
-#### 「/etc/apt/sources.list.d/demo-github.list」
+
+#### 選擇三「/etc/apt/sources.list.d/demo-github.list」
 
 執行
 
@@ -193,7 +195,7 @@ $ make github-sources-list-remove
 
 ### 測試
 
-以上面「/etc/apt/sources.list.d/demo-localhost.list」這個為例，
+以上面的選擇二「/etc/apt/sources.list.d/demo-localhost.list」這個為例，
 
 當執行完「`sudo apt-get update`」後，
 
