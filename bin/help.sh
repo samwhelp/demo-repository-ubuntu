@@ -17,6 +17,8 @@ $ make help
 
 $ make update
 
+$ make serve
+
 $ make sources-list-install
 $ make sources-list-remove
 

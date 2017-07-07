@@ -19,6 +19,9 @@ base_var_init () {
 
 	THE_VAR_DIR_NAME=var
 	THE_VAR_DIR_PATH=$(find_dir_path "$THE_BASE_DIR_PATH/../$THE_VAR_DIR_NAME/.")
+
+	THE_DOCUMENTROOT_DIR_PATH=$(find_dir_path "$THE_BASE_DIR_PATH/../.")
+
 }
 
 base_var_dump () {
@@ -30,5 +33,7 @@ base_var_dump () {
 
 	echo '$THE_VAR_DIR_NAME:' $THE_VAR_DIR_NAME
 	echo '$THE_VAR_DIR_PATH:' $THE_VAR_DIR_PATH
+
+	echo '$THE_DOCUMENTROOT_DIR_PATH:' $THE_DOCUMENTROOT_DIR_PATH
 
 }

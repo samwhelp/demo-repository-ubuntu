@@ -12,9 +12,17 @@ help:
 	@help.sh
 .PHONY: help
 
+create:
+	@create.sh
+.PHONY: create
+
 update:
 	@update.sh
 .PHONY: update
+
+serve:
+	@serve.sh
+.PHONY: serve
 
 sources-list-install:
 	@sources-list-install.sh
