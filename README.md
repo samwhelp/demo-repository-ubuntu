@@ -403,3 +403,34 @@ $ apt-get source chewup
 
 * [#2 回覆: apt 出現許多錯誤訊息](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357764#forumpost357764)
 * [簡易的建立自己的套件庫](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=342070#forumpost342070)
+
+
+## Manpages
+
+* $ man [sources.list](http://manpages.ubuntu.com/manpages/xenial/en/man5/sources.list.5.html)
+* $ man [dpkg-scanpackages](http://manpages.ubuntu.com/manpages/xenial/en/man1/dpkg-scanpackages.1.html)
+* $ man [dpkg-scansources](http://manpages.ubuntu.com/manpages/xenial/en/man1/dpkg-scansources.1.html)
+* $ man [gzip](http://manpages.ubuntu.com/manpages/xenial/en/man1/gzip.1.html)
+* $ man [gunzip](gunzip)
+* $ man [md5sum](http://manpages.ubuntu.com/manpages/xenial/en/man1/md5sum.1.html)
+* $ man [sha1sum](http://manpages.ubuntu.com/manpages/xenial/en/man1/sha1sum.1.html)
+* $ man [sha256sum](http://manpages.ubuntu.com/manpages/xenial/en/man1/sha256sum.1.html)
+
+
+## Ubuntu Community Help Wiki
+
+* [Repositories](https://help.ubuntu.com/community/Repositories)
+* [Repositories/Ubuntu](https://help.ubuntu.com/community/Repositories/Ubuntu)
+* [Repositories/CommandLine](https://help.ubuntu.com/community/Repositories/CommandLine)
+* [Repositories/Personal](https://help.ubuntu.com/community/Repositories/Personal)
+* [HowToMD5SUM](https://help.ubuntu.com/community/HowToMD5SUM)
+* [HowToSHA256SUM](https://help.ubuntu.com/community/HowToSHA256SUM)
+
+
+## Debian Wiki
+
+* [SourcesList](https://wiki.debian.org/SourcesList)
+* [DebianRepository](https://wiki.debian.org/DebianRepository)
+* [Packaging](https://wiki.debian.org/Packaging)
+* [Binary Package](https://wiki.debian.org/Packaging/BinaryPackage)
+* [Source Package](https://wiki.debian.org/Packaging/SourcePackage)
