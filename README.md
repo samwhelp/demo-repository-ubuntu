@@ -1,6 +1,6 @@
 # demo-repository-ubuntu
 
-[Demo Ubuntu Repository](https://samwhelp.github.io/demo-repository-ubuntu/)
+「[Demo Ubuntu Repository](https://samwhelp.github.io/demo-repository-ubuntu/) ([GitHub](https://github.com/samwhelp/demo-repository-ubuntu))」
 
 
 ## 套件庫結構
